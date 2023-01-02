@@ -30,7 +30,7 @@
             * 4. Allocate only power of 2 address
             * 5. Error when out of bound >= 1/2 slot size
             * 6. OOB < 1/2 slot size mark pointer OOB
-
+----------
 * Lecture 5 Privilege separation
     * Pre reading:
         * key negotiation
@@ -51,6 +51,11 @@
         2. how to isolate? 
         3. How to share?
         4. maintain performance
+    * Device
+        * IMG
+        * proxy
+            * SQL
+            * access control 
     * 
             
 
